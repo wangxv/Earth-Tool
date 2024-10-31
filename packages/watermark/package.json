@@ -1,0 +1,29 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "description": "水印",
+  "keywords": [
+    "watermark"
+  ],
+  "author": "wangxv <wangxv>",
+  "homepage": "https://github.com/wangxv/Earth-Tool#readme",
+  "license": "ISC",
+  "main": "lib/watermark.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxv/Earth-Tool.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/watermark.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/wangxv/Earth-Tool/issues"
+  }
+}

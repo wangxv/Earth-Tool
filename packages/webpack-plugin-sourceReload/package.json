@@ -1,0 +1,30 @@
+{
+  "name": "webpack-plugin-sourcereload",
+  "version": "1.0.0",
+  "description": "资源重载webpack插件",
+  "keywords": [
+    "source",
+    "reload"
+  ],
+  "author": "wangxv <wangxv>",
+  "homepage": "https://github.com/wangxv/Earth-Tool#readme",
+  "license": "ISC",
+  "main": "lib/webpack-plugin-sourceReload.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxv/Earth-Tool.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/webpack-plugin-sourceReload.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/wangxv/Earth-Tool/issues"
+  }
+}

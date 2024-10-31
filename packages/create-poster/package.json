@@ -1,0 +1,29 @@
+{
+  "name": "create-poster",
+  "version": "1.0.0",
+  "description": "生成海报",
+  "author": "wangxv <wangxv>",
+  "homepage": "https://github.com/wangxv/Earth-Tool#readme",
+  "license": "ISC",
+  "main": "lib/create-poster.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxv/Earth-Tool.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/create-poster.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/wangxv/Earth-Tool/issues"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1"
+  }
+}
